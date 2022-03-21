@@ -1,5 +1,4 @@
 # Neo-Profile
-Epic first repository
 
 <!DOCTYPE html>
 <html>
