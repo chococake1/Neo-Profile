@@ -4,7 +4,7 @@ Epic first repository
 <!DOCTYPE html>
 <html>
 <head>
-<title>Assignment 1</title>
+<title>Assignment 1 - Making a Profile</title>
 </head>
 <body>
 [BETWEEN THE BODY TAGS IS WHAT YOUR BROWSER WILL SHOW]
